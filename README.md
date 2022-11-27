@@ -76,6 +76,8 @@
     >>>                 break
     >>>         if el_4 not in ration_nums:
     >>>             break
+    
+    <a href="https://files.fm/f/dpeu9zz3y"><img src="https://files.fm/thumb_show.php?i=dpeu9zz3y"></a>
 
 Блок операций с комплексными числами
 ---------------------------------------
